@@ -4,9 +4,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {%- seo -%}
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-    <script data-ad-client="ca-pub-5312431970919692" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     {%- feed_meta -%}
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
       {%- include google-analytics.html -%}
     {%- endif -%}
-</head>
+    {%- if site.google_ads -%}
+      {%- include google-adsense.html -%}
+    {%- endif -%}    
+    {%- include custom-head.html -%}
+    
+  </head>

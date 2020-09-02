@@ -19,21 +19,28 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Engineering by Trade
-iconURL: assets/ebt-logo.png
 email: engineeringbytrade@gmail.com
+description: >-
+  A blog aimed at anyone interested in software development
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: engineeringbytrade
+github_username:  engineeringbytrade
 
-permalink: :slug
-
-social:
-  twitter: engineeringbytrade
-  github: engineeringbytrade
-  facebook: Engineering-By-Trade-109044214090909
+google_analytics: UA-177028079-1
+google_ads: ca-pub-5312431970919692
 
 # Build settings
-theme: jekyll-theme-leaf
+theme: minima
+minima:
+  skin: solarized-dark
+  social_links:
+    twitter: engineeringbytrade
+    github: engineeringbytrade
+    facebook: engineeringbytrade
+
+author:
+  name: EBT
+  email: "engineeringbytrade@gmail.com"
 plugins:
   - jekyll-feed
-
-### comments & analytics
-# hyvor_talk_website_id: YOUR_WEBSITE_ID
-google_analytics: UA-177028079-1

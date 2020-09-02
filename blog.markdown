@@ -1,5 +1,7 @@
 ---
-layout: blog
+layout: page
 title: Blog
+permalink: /blog/
 ---
-## Articles
+
+# TBD
