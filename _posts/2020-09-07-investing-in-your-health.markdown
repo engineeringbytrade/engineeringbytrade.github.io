@@ -68,4 +68,4 @@ Another popular alternative. If you don’t like mesh seating and backing, the L
 ### Accessories
 Outside of the main categories, there are a few things you can do like monitor stands and laptop risers to elevate your view. You may also consider some gel supports for your mouse or keyboard. These are all cost-effective ways of improving your health, and in the long term drastically improving your productivity behind the desk.
 
-Have any favorites not mentioned? Any tips? Please leave in the comments below!
+Have any favorites not mentioned? Any tips? Please let me know!
