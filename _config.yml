@@ -4,8 +4,9 @@ description: >-
   A resource for anyone interested in software development
 baseurl: ""
 url: "http://engineeringbytrade.com"
-twitter_username: engineeringbytrade
+twitter_username: engbytrade
 github_username:  engineeringbytrade
+facebook_username: engineeringbytrade
 
 # Build settings
 theme: minima
