@@ -1,9 +1,22 @@
 title: Engineering By Trade
+tagline: A blog for software development and programming
 email: engineeringbytrade@gmail.com
 description: >-
-  A resource for anyone interested in software development
+  A resource for anyone interested in software development. Work includes coding projects, techniques, career development, and more.
 baseurl: ""
 url: "http://engineeringbytrade.com"
+
+twitter:
+  username: engbytrade
+  card: summary
+
+facebook:
+  publisher: 109044214090909
+
+google_site_verification:
+
+logo: /assets/default-icon.jpg
+
 twitter_username: engbytrade
 github_username:  engineeringbytrade
 facebook_username: engineeringbytrade
@@ -12,6 +25,7 @@ facebook_username: engineeringbytrade
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Google
 google_analytics: UA-177028079-1
