@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Proving Stock Prices Function as a Random Walk
+title:  Proving Stock Prices Function as a Random Walk with Python
 date:   2020-09-10 15:08:11 -0500
 categories: projects
 ---
