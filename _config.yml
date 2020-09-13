@@ -4,7 +4,7 @@ email: engineeringbytrade@gmail.com
 description: >-
   A resource for anyone interested in software development. Work includes coding projects, techniques, career development, and more.
 baseurl: ""
-url: "http://engineeringbytrade.com"
+url: "https://engineeringbytrade.com"
 
 twitter:
   username: engbytrade
@@ -26,6 +26,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Google
 google_analytics: UA-177028079-1
