@@ -501,6 +501,6 @@ stockDF['change'].autocorr(lag=1)
 
 Note above that autocorrelation is close to zero. This is what tells us that past changes do not affect current changes
 
-# Why does this matter?
+### Why does this matter?
 
 To forecast the price of stock the next day, **your best statistical guess is the price of that same stock today, plus the mean change in past prices.** This means that it's easy to predict the price of a stock, but hard to predict their change. Using data on past stock prices does not lend hints as to future price changes that may bring profits to investors
