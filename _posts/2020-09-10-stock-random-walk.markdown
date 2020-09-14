@@ -10,6 +10,8 @@ A time series in which the period-to-period changes are a random sample. In othe
 
 It's like a drunk guy trying to stumble home from the bar. He's eventually going to get home, but at any given point, we have no idea whether he's going to stumble left, stumble right, and how far that mis-step will be 
 
+{% include advertisements.html %}
+
 ### Relating this to the financial market
 A stock can be thought of like the drunk guy. It has a long term rate of growth, but the value at time t1 is unpredictable when you're at time t0. This is why day-trading is hard to predict. The **change** in stock price is a random sample.
 
@@ -26,7 +28,8 @@ import pandas as pd
 
 ```
 
-### Collecting three months of FB stock data. This is a dumb copy/paste, and could be done much better via dynamic stock price fetching.
+### Collecting three months of FB stock data.
+This is a dumb copy/paste, and could be done much better via dynamic stock price fetching.
 
 
 ```python
