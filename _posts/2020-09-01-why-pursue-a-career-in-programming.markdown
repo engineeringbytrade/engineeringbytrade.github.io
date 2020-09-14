@@ -8,6 +8,8 @@ In my opinion, the single greatest thing about the tech industry is that anybody
 
 What do I mean by this? If you want to be a physician, you have to go to 8+ years of med school, graduate with an MD or DO, complete residency, and then finally you are underway. If you want to be a lawyer, you must graduate Law School and pass the bar. These professions have this for good reason – you want someone you can trust when dealing with sensitive issues having a minuscule margin of error, often times determining life or death.
 
+{% include inline_ad.html %}
+
 Make no mistake, software development can and often does share the same requirement of perfection. Think about Tesla, who takes on the burden of rider safety daily in their autonomous vehicles. An error in a program running the next NASA space shuttle could spell catastrophe. Even today’s banking infrastructure is high risk software that requires a meticulous attention to detail.
 
 However there is often a need for development in less precise fields. Facebook started as what amounts to an online phonebook for a university. Google simply tried to parse the proverbial haystack of online content in an easily searchable manner. These are now extremely successful businesses, but started with a simple idea and held tightly the value of “pulling yourself up by your bootstraps”. Mark Zuckerberg himself dropped out of undergrad. What mattered is that they had an idea, and they worked hard to pursue it. This mindset has led to an industry that is much more open to people and vastly more willing to look at their bodies of work rather than degrees on the wall.

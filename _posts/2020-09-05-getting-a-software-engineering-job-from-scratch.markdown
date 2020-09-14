@@ -9,6 +9,8 @@ In the upcoming weeks/months/years, I’ll be writing a series of articles on in
 
 When starting I didn’t know what Big-O meant, stack/heap, memory allocation, etc. I had taken a basic intro to Python course on Codeacademy, but that was practically it. However, through structured learning and dedication, I was able to successfully obtain a FAANG Software Engineering job. The method in doing so can essentially be distilled into three main steps: Commitment, Planning, and Execution
 
+{% include inline_ad.html %}
+
 ## Commitment
 
 To go from zero to hired engineer, expect to invest 8 or more hours a day for several months. If you have a full time job and can only put forth a few hours per day, that works but expect for the timeline to extend longer. Make an effort to Always Be Coding, and think through how you can carve out time in your daily schedule to start down a path towards learning software development.

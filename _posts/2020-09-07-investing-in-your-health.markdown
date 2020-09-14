@@ -8,6 +8,8 @@ Invest in your health! It’s a term you hear quite often. Typically this is in 
 
 These are all extremely important, but one oft overlooked way to improve your health is to invest in ergonomics. If you’re a programmer, you’re likely spending over 8 hours per day at your desk in front of your computer. This means for a normal work week,  you’re spending ~24% of your life at your desk in your chair. Looking at it this way, it seems insane not to spend time on ergonomics considering it accounts for a quarter of your professional life. We’re going to go over some tips and suggestions in this article. First we’ll look at Posture and Positioning, then move onto my personal favorite, Ergonomic Equipment
 
+{% include inline_ad.html %}
+
 ## Posture and Positioning
 There are many articles that go over this in much more detail, but the gist of it can be boiled down to the following principles:
 
