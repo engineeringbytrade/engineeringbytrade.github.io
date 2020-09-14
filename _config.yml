@@ -30,7 +30,7 @@ plugins:
 
 # Google
 google_analytics: UA-177028079-1
-# google_adsense: ca-pub-5312431970919692
+google_adsense: ca-pub-5312431970919692
 
 #icon
 masthead: /assets/default-icon.jpg
